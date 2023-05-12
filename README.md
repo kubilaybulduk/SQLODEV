@@ -5,4 +5,5 @@
 3.Ödev : https://github.com/kubilaybulduk/SQLODEV/blob/4f632f5f131cdf5b57353cb7258f8f6c7b3d50d8/SQLODEV_3  
 4.Ödev : https://github.com/kubilaybulduk/SQLODEV/blob/77da1d4f46dae694fda3ff9f41cfd0fad2703eff/SQLODEV_4  
 5.Ödev : https://github.com/kubilaybulduk/SQLODEV/blob/076f52ee6cf7846bf3a28ea07af652bbfba5488b/SQLODEV_5  
-6.Ödev : https://github.com/kubilaybulduk/SQLODEV/blob/34c80836a850e2d64d1128213076734436a9b00c/SQLODEV_6
+6.Ödev : https://github.com/kubilaybulduk/SQLODEV/blob/34c80836a850e2d64d1128213076734436a9b00c/SQLODEV_6  
+7.Ödev : https://github.com/kubilaybulduk/SQLODEV/blob/8b8a9f4211df5a0b3f700ee65defadffa1983b7b/SQLODEV_7
